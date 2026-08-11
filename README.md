@@ -1,5 +1,16 @@
 # WeChat Title & Summary — 公众号标题/摘要/封面图生成器
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/rcrusoe88-bot/wechat-title-summary?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/rcrusoe88-bot/wechat-title-summary?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/rcrusoe88-bot/wechat-title-summary?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/rcrusoe88-bot/wechat-title-summary?style=flat-square" alt="Top Language">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcrusoe88-bot&repo=wechat-title-summary&theme=vue&show_owner=true" alt="wechat-title-summary 仓库数据">
+</p>
+
 > 一个面向**专业生物医药 / mRNA / LNP 领域**公众号文章的 Skill：输入文章正文，输出 3 组候选「标题 + 摘要」方案，并可选生成 4 套风格的**封面图文生图 prompt**（可直接用于 DALL-E、Midjourney、Gemini 等文生图模型）。
 
 ## 功能特性
@@ -67,3 +78,10 @@ mRNA 疫苗、LNP 递送、CAR-T、基因治疗、癌症疫苗、自身免疫治
 ## 许可
 
 本项目作为 Skill 开源发布，含通用模板与参考文档。
+
+## 📊 作者 GitHub 数据
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rcrusoe88-bot&show_icons=true&theme=vue" alt="rcrusoe88-bot 的 GitHub 统计">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrusoe88-bot&layout=compact&theme=vue" alt="rcrusoe88-bot 的常用语言">
+</p>
