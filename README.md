@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcrusoe88-bot&repo=wechat-title-summary&theme=vue&show_owner=true" alt="wechat-title-summary 仓库数据">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rcrusoe88-bot&repo=wechat-title-summary&theme=vue&show_owner=true" alt="wechat-title-summary 仓库数据">
 </p>
 
 > 一个面向**专业生物医药 / mRNA / LNP 领域**公众号文章的 Skill：输入文章正文，输出 3 组候选「标题 + 摘要」方案，并可选生成 4 套风格的**封面图文生图 prompt**（可直接用于 DALL-E、Midjourney、Gemini 等文生图模型）。
@@ -82,6 +82,6 @@ mRNA 疫苗、LNP 递送、CAR-T、基因治疗、癌症疫苗、自身免疫治
 ## 📊 作者 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcrusoe88-bot&show_icons=true&theme=vue" alt="rcrusoe88-bot 的 GitHub 统计">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrusoe88-bot&layout=compact&theme=vue" alt="rcrusoe88-bot 的常用语言">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rcrusoe88-bot&show_icons=true&theme=vue" alt="rcrusoe88-bot 的 GitHub 统计">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rcrusoe88-bot&layout=compact&theme=vue" alt="rcrusoe88-bot 的常用语言">
 </p>
