@@ -1,0 +1,25 @@
+[
+  {"query": "帮我给这篇mRNA文章写标题和摘要", "should_trigger": true},
+  {"query": "这篇论文解读需要起个标题，帮我想几个", "should_trigger": true},
+  {"query": "写摘要，文章内容是关于LNP递送效率的", "should_trigger": true},
+  {"query": "设计标题和摘要，三组方案", "should_trigger": true},
+  {"query": "帮我写公众号标题", "should_trigger": true},
+  {"query": "这篇推文的题目怎么起好", "should_trigger": true},
+  {"query": "给我生成封面图提示词，学术风格", "should_trigger": true},
+  {"query": "生成封面图，手绘信息图那种风格", "should_trigger": true},
+  {"query": "文章写好了，帮我配个封面图的RTF提示词", "should_trigger": true},
+  {"query": "帮我选题，关于CAR-T免疫治疗的文章方向", "should_trigger": true},
+  {"query": "这篇Nature文章的摘要怎么写更吸引人", "should_trigger": true},
+  {"query": "重新生成三组，之前那几个不满意", "should_trigger": true},
+
+  {"query": "帮我搜一下最新的LNP递送研究", "should_trigger": false},
+  {"query": "解释一下mRNA的翻译机制", "should_trigger": false},
+  {"query": "查一下这个NCT号的临床试验", "should_trigger": false},
+  {"query": "帮我写一篇完整的推文", "should_trigger": false},
+  {"query": "这篇文章的数据怎么解读", "should_trigger": false},
+  {"query": "把这篇文章翻译成中文", "should_trigger": false},
+  {"query": "帮我做PPT", "should_trigger": false},
+  {"query": "生成一张插图", "should_trigger": false},
+  {"query": "查找相关文献", "should_trigger": false},
+  {"query": "帮我写实验方案", "should_trigger": false}
+]

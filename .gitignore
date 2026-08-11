@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Local metadata (WorkBuddy installed-skill metadata)
+_user_meta.json
